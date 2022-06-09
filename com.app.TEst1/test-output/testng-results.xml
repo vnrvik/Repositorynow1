@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T16:53:27 IST" name="Suite" finished-at="2022-06-08T16:53:34 IST" duration-ms="6642">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T16:53:27 IST" name="Test" finished-at="2022-06-08T16:53:34 IST" duration-ms="6642">
+      <class name="com.app.TestCases.AppTest">
+        <test-method is-config="true" signature="setupsuite()[pri:0, instance:com.app.TestCases.AppTest@1a4013]" started-at="2022-06-08T16:53:27 IST" name="setupsuite" finished-at="2022-06-08T16:53:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupsuite -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.app.TestCases.AppTest@1a4013]" started-at="2022-06-08T16:53:27 IST" name="launchBrowser" finished-at="2022-06-08T16:53:34 IST" duration-ms="6548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:com.app.TestCases.AppTest@1a4013]" started-at="2022-06-08T16:53:34 IST" name="shouldAnswerWithTrue" finished-at="2022-06-08T16:53:34 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.app.TestCases.AppTest@1a4013]" started-at="2022-06-08T16:53:34 IST" name="closebrowser" finished-at="2022-06-08T16:53:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.app.TestCases.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
